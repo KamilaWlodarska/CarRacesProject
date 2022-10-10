@@ -1,1 +1,1 @@
-# Java projects
+# Java school projects
