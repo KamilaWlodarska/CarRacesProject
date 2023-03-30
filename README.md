@@ -1,1 +1,1 @@
-# Car races OOP project for university classes
+# OOP project for university classes
