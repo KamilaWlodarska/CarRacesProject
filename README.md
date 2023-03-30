@@ -1,1 +1,1 @@
-# OOP project for university classes
+# OOP project in Java for university classes
