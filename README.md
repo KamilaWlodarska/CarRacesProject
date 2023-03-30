@@ -1,1 +1,1 @@
-# Java school projects
+# Car races OOP project for university classes
