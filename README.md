@@ -1,1 +1,3 @@
-# OOP project for university classes
+## Car Races project
+### Java OOP GUI
+### Created on university classes
